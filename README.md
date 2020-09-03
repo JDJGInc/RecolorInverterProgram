@@ -13,7 +13,7 @@ Some of the code was used in https://repl.it/@JDJGInc_Offical/JDJGBotSupreme#mai
 
 Download here:
 
-https://github.com/JDJGInc/Recolor_InverterProgram/releases
+https://github.com/JDJGInc/RecolorInverterProgram/releases
 
 to use:
 
